@@ -39,4 +39,6 @@ This project is my first portfolio data analysis project.
 5. Summarize findings
 
 # Results 
-
+<p align="center">
+    <img src=".github/pbi_hoteldash.PNG" width="360">
+</p>
